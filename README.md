@@ -3,7 +3,7 @@ Yet another one of my useless scripts.
 This one allows the user to create a 4 line advertisement that is relayed via a changing access-point SSID.
 
 ## Usage
-Just teak the lines as you see fit to meet your advertisiments requirement.
+Just tweak the lines as you see fit to meet your advertisiments requirement.
 The names change once every 10 seconds but this can be edited by changing the SIGINT variable for 10 to whatever you need.
 
 ## Requirements
